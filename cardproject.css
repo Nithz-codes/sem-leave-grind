@@ -70,4 +70,14 @@ main{
     align-items: center;
 }
   */
+  .card figure{
+    border: 5px double #333;
+    border-radius: 50%;
+  }
+  .card figcaption{
+    font-weight: bolder;
+    font-size:2 rem;
+    margin: 1rem;
+    text-align: center;
+  }
   
